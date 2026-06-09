@@ -1,0 +1,5 @@
+name,category,description
+Python,编程语言,一种高级编程语言，以简洁著称
+LangChain,框架,用于构建LLM应用的开发框架
+RAG,技术,检索增强生成技术
+Vector Database,数据库,用于存储和检索向量

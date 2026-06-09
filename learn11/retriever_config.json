@@ -1,0 +1,6 @@
+{
+  "collection_name": "knowledge_base",
+  "persist_dir": "/retriever_db",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "num_documents": 12
+}

@@ -1,0 +1,13 @@
+id,document,category,topic,difficulty
+doc_0,Python是一种解释型、面向对象的高级编程语言。它具有简洁的语法和强大的标准库。,python,基础,easy
+doc_1,Python的装饰器是一种函数，用于修改其他函数的行为，是Python的高级特性之一。,python,高级,hard
+doc_2,Python中的列表推导式提供了一种简洁的创建列表的方法。,python,语法,medium
+doc_3,机器学习是人工智能的一个子集，它使系统能够从数据中自动学习和改进。,ml,基础,easy
+doc_4,监督学习使用带标签的数据训练模型，包括分类和回归任务。,ml,基础,medium
+doc_5,深度学习使用多层神经网络，在图像识别、自然语言处理等领域取得了突破性进展。,ml,深度学习,hard
+doc_6,RAG（检索增强生成）结合了信息检索和大语言模型，能够生成更准确、更有依据的回答。,rag,基础,medium
+doc_7,向量数据库专门用于存储和检索高维向量，是实现RAG系统的关键组件。,rag,技术,hard
+doc_8,嵌入模型将文本转换为向量表示，使得语义相似的文本在向量空间中靠近。,rag,技术,medium
+doc_9,机器学习面试常问的问题包括：过拟合与欠拟合、偏差与方差、正则化方法等。,interview,ml,medium
+doc_10,Python面试中经常考察装饰器、生成器、上下文管理器等高级特性。,interview,python,medium
+doc_11,RAG系统面试会问：如何优化检索质量、如何处理长文档、如何评估系统性能等。,interview,rag,hard

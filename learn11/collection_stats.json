@@ -1,0 +1,17 @@
+{
+  "name": "my_documents",
+  "count": 8,
+  "metadata": {
+    "description": "\u793a\u4f8b\u6587\u6863\u96c6\u5408"
+  },
+  "documents_sample": [
+    "Python is a high-level programming language known for its simplicity.",
+    "Machine learning is a subset of AI that enables systems to learn from data.",
+    "Deep learning uses neural networks with multiple layers."
+  ],
+  "categories": [
+    "programming",
+    "nlp",
+    "ai"
+  ]
+}

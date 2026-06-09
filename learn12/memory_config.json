@@ -1,0 +1,6 @@
+{
+  "buffer_memory_count": 2,
+  "window_memory_k": 3,
+  "window_memory_count": 6,
+  "best_practices": "\u4f7f\u7528WindowMemory\u5904\u7406\u957f\u5bf9\u8bdd\uff0c\u4f7f\u7528BufferMemory\u5904\u7406\u77ed\u5bf9\u8bdd"
+}

@@ -1,0 +1,9 @@
+{
+  "total_documents": 7,
+  "sources": {
+    "text": 1,
+    "pdf": 1,
+    "csv": 4,
+    "markdown": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ResNet18",
+  "pretrained": true,
+  "num_parameters": 11689512,
+  "input_size": [
+    3,
+    224,
+    224
+  ],
+  "output_features": 512,
+  "layer_counts": {
+    "Conv2d": 20,
+    "BatchNorm2d": 20,
+    "ReLU": 9,
+    "MaxPool2d": 1,
+    "AvgPool2d": 0,
+    "Linear": 1
+  }
+}

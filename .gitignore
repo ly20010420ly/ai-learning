@@ -1,0 +1,17 @@
+# 模型文件
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# 向量数据库
+chroma_db/
+rag_db/
+faiss_index/
+
+# Python
+__pycache__/
+*.pyc
+
+# HuggingFace缓存
+.cache/
